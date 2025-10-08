@@ -1,7 +1,3 @@
-#!/bin/bash
-
-# GitHub Codespaces Big Data Setup Script (Ubuntu) - FIXED VERSION
-# Sets up Hadoop, Hive (local mode), Kafka, and Spark in a single-node cluster
 
 set -e  # Exit on any error
 
