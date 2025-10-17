@@ -1,0 +1,5 @@
+Sensors data every 1ms > 10000 Qn
+100 fdan
+
+temp > 40 and temp < 20 
+
